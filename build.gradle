@@ -1,0 +1,51 @@
+buildscript {
+    repositories {
+        maven { url 'https://maven.fabric.io/public' }
+    }
+
+    dependencies {
+        classpath 'io.fabric.tools:gradle:1.+'
+    }
+}
+apply plugin: 'com.android.application'
+apply plugin: 'io.fabric'
+
+repositories {
+    maven { url 'https://maven.fabric.io/public' }
+}
+
+
+android {
+    compileSdkVersion rootProject.ext.compileSdkVersion
+    buildToolsVersion rootProject.ext.buildToolsVersion
+
+    defaultConfig {
+        applicationId "io.krumbs.sdkdemo.starter"
+        minSdkVersion rootProject.ext.minSdkVersion
+        targetSdkVersion rootProject.ext.targetSdkVersion
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    packagingOptions {
+        exclude 'META-INF/NOTICE' // will not include NOTICE file
+        exclude 'META-INF/LICENSE' // will not include LICENSE file
+    }
+}
+
+dependencies {
+    compile 'io.krumbs.sdk:krumbs-sdk:1.0.8.9-SNAPSHOT'
+    compile('com.twitter.sdk.android:twitter:1.13.0@aar') {
+        transitive = true;
+    }
+    compile files('lib/rabbitmq-java-client-bin-3.6.1/commons-cli-1.1.jar')
+    compile files('lib/rabbitmq-java-client-bin-3.6.1/commons-io-1.2.jar')
+    compile files('lib/rabbitmq-java-client-bin-3.6.1/hamcrest-core.jar')
+    compile files('lib/rabbitmq-java-client-bin-3.6.1/rabbitmq-client.jar')
+    compile files('lib/rabbitmq-java-client-bin-3.6.1/rabbitmq-client-tests.jar')
+}

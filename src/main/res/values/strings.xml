@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2016 Krumbs Inc
+  ~ All rights reserved.
+  ~
+  -->
+<resources>
+    <string name="krumbssdk_app_id">Ilb1WfMZ3PlHoL2rZKf1S4d1X7NBJYhhxBWX5I5a</string>
+    <string name="krumbssdk_client_key">McNA49Y465RS9snF2trbXh9CzQCwH8uVDKnFshBd</string>
+    <string name="google_maps_api">AIzaSyCHxjJey7UBH_71GLDnwjdBHMp7HSs65XA</string>
+    <string name="app_name">Web Observatory</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="krumbs_sdk_app">The Web Observatory</string>
+    <string name="action_settings">Settings</string>
+    <string name="kcapturebuttonLabel">Contribute</string>
+    <string name="buttonValidate">Validate</string>
+    <string name="buttonExplore">Explore Other Contributers</string>
+    <string name="appTitle">The Web Observatory</string>
+    <string name="subtitle">Social Computer</string>
+    <string name="titleTwo">All Ready to Go!</string>
+    <string name="welcomeTitle">The Web Observatory</string>
+
+    <string name="buttonSkip">Skip for Now</string>
+    <string name="buttonValidateReleventData">Relevant</string>
+    <string name="buttonValidateNonReleventData">Not So much</string>
+    <string name="validateTranslateTitle">Is this data relevant to the XX Event?</string>
+
+</resources>

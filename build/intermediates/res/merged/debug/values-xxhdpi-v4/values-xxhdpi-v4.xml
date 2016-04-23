@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircularProgressBar">
+        <attr format="integer" name="progress"/>
+        <attr format="color" name="progressbar_color"/>
+        <attr format="color" name="background_progressbar_color"/>
+        <attr format="dimension" name="progressbar_width"/>
+        <attr format="dimension" name="background_progressbar_width"/>
+    </declare-styleable>
+    <dimen name="tw__login_btn_text_size">18sp</dimen>
+</resources>

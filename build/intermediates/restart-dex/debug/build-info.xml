@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="481492308351551" >
+
+    <task
+        name="javac"
+        duration="1581" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="80" />
+    <task
+        name="verifier"
+        duration="13" />
+
+    <artifact
+        location="C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+        type="DEX" />
+
+    <build timestamp="481191725138369" >
+        <artifact
+            location="C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\build\outputs\apk\KrumbsSDKStarterProject-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="481492308351551" >
+        <artifact
+            location="C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,3 @@
+CHANGED,C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\io\krumbs\sdk\starter\KrumbsValidateActivity$override.class
+CHANGED,C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\io\krumbs\sdk\starter\KrumbsValidateActivity$1$override.class
+CHANGED,C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

@@ -1,0 +1,70 @@
+{
+  "intents": [
+    {
+      "Yikes": {
+        "synonyms": [
+          "Yikes",
+          "Pick up the trash!",
+          "No trashcans?",
+          "Trash ruins our city",
+          "Messy garbage collection",
+          "Garbage overflow",
+          "Nightmare",
+          "Lots of trash",
+          "This isn't a trash can",
+          "WTF?",
+          "Clean this now"
+        ],
+        "unicode": "1F60B",
+        "expression_id": 1,
+        "resource_name": "garbage"
+      }
+    },
+    {
+      "Yay": {
+        "synonyms": [
+          "Clean",
+          "Beautiful",
+          "Clean every week",
+          "Clean every month",
+          "Clean again"
+        ],
+        "unicode": "1F379",
+        "expression_id": 3,
+        "resource_name": "clean"
+      }
+    },
+    {
+      "Gross!": {
+        "synonyms": [
+          "Dirty Toilet",
+          "Disgusting",
+          "Nightmare",
+          "Ughhh",
+          "Nightmare Toilets",
+          "WTF?",
+          "Clean this now",
+          "Out of Order"
+        ],
+        "unicode": "1F370",
+        "expression_id": 4,
+        "resource_name": "toilet"
+      }
+    },
+    {
+      "Watch Out": {
+        "synonyms": [
+          "Dangerous",
+          "Dangerous Road",
+          "Needs a Fix",
+          "Fix Potholes",
+          "Traffic Jam",
+          "Bad Roads"
+        ],
+        "unicode": "2615",
+        "expression_id": 5,
+        "resource_name": "road"
+      }
+    }
+  ]
+}
