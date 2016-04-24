@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:7:1-63:12
+ADDED from C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:7:1-67:12
 	xmlns:tools
 		ADDED from C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:9:5-51
 	xmlns:android
@@ -55,7 +55,7 @@ MERGED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] C:\krumbsDev\starte
 	android:name
 		ADDED from C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:14:22-76
 application
-ADDED from C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:17:5-61:19
+ADDED from C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:17:5-65:19
 MERGED from [io.krumbs.sdk:krumbs-sdk:1.0.8.9-SNAPSHOT] C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.8.9-SNAPSHOT\AndroidManifest.xml:28:5-44:19
 MERGED from [com.mixpanel.android:mixpanel-android:4.7.0] C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.mixpanel.android\mixpanel-android\4.7.0\AndroidManifest.xml:44:5-124:19
 MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\AndroidManifest.xml:19:5-20
@@ -166,25 +166,29 @@ activity#io.krumbs.sdk.starter.MapActivity
 ADDED from C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:44:9-46:20
 	android:name
 		ADDED from C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:45:13-40
-activity#io.krumbs.sdk.starter.KrumbsValidateActivity
+activity#io.krumbs.sdk.starter.ValidateActivity
 ADDED from C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:48:9-50:20
 	android:name
-		ADDED from C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:49:13-51
-meta-data#io.fabric.ApiKey
-ADDED from C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:52:9-54:72
+		ADDED from C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:49:13-45
+activity#io.krumbs.sdk.starter.KrumbsValidateActivity
+ADDED from C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:52:9-54:20
 	android:name
-		ADDED from C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:53:13-44
+		ADDED from C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:53:13-51
+meta-data#io.fabric.ApiKey
+ADDED from C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:56:9-58:72
+	android:name
+		ADDED from C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:57:13-44
 	android:value
-		ADDED from C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:54:13-69
+		ADDED from C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:58:13-69
 meta-data#com.google.android.geo.API_KEY
-ADDED from C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:56:9-58:54
+ADDED from C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:60:9-62:54
 MERGED from [io.krumbs.sdk:krumbs-sdk:1.0.8.9-SNAPSHOT] C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.8.9-SNAPSHOT\AndroidManifest.xml:37:9-39:54
 	tools:replace
-		ADDED from C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:56:20-49
+		ADDED from C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:60:20-49
 	android:name
-		ADDED from C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:57:13-58
+		ADDED from C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:61:13-58
 	android:value
-		ADDED from C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:58:13-52
+		ADDED from C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:62:13-52
 		REJECTED from [io.krumbs.sdk:krumbs-sdk:1.0.8.9-SNAPSHOT] C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.8.9-SNAPSHOT\AndroidManifest.xml:39:13-51
 uses-sdk
 INJECTED from C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested

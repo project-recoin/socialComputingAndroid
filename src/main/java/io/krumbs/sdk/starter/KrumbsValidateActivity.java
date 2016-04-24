@@ -38,7 +38,7 @@ public class KrumbsValidateActivity extends AppCompatActivity {
   @Override
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
-    setContentView(R.layout.activity_validate);
+    setContentView(R.layout.activity_krumbs);
 //    View startCaptureButton = findViewById(R.id.kcapturebutton);
 //    startCaptureButton.setOnClickListener(new View.OnClickListener() {
 //        @Override
@@ -50,15 +50,7 @@ public class KrumbsValidateActivity extends AppCompatActivity {
 //        }
 //    });
 //
-     resource  = getIntent().getStringExtra("resource");
-      try {
-          JSONObject obj = new JSONObject(resource);
 
-          TextView text = (TextView) findViewById(R.id.resourceText);
-          text.setText(obj.getString("message"));
-      }catch (Exception e){
-
-      }
 
       startCapture();
 

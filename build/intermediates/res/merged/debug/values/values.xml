@@ -1059,8 +1059,11 @@
     <string name="auth_google_play_services_client_google_display_name">Google</string>
     <string name="auto_stabilise_not_supported">Sorry, auto-stabilise not supported\non this device</string>
     <string name="back_camera">Back Camera</string>
-    <string name="buttonExplore">Explore</string>
+    <string name="buttonExplore">Explore Other Contributers</string>
+    <string name="buttonSkip">Skip for Now</string>
     <string name="buttonValidate">Validate</string>
+    <string name="buttonValidateNonReleventData">Nope</string>
+    <string name="buttonValidateReleventData">Relevant</string>
     <string name="camera_menu_title">Camera</string>
     <string name="camera_preview_stack">Photo Preview Stack</string>
     <string name="camera_switch">Switch Camera</string>
@@ -1075,7 +1078,7 @@
     <string name="clear_folder_history">Clear folder history</string>
     <string name="clear_folder_history_question">Clear folder history?</string>
     <string name="color_effect">Color effect</string>
-    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">2ef72002-6cbd-40dc-a9d5-e6b796ede48d</string>
+    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">ce7c4d19-288a-42c2-a558-d52acee63c72</string>
     <string name="com_mixpanel_android_close">Close</string>
     <string name="com_mixpanel_android_done">Done</string>
     <string name="com_mixpanel_android_exit">Exit</string>
@@ -1390,6 +1393,7 @@
     <string name="started_timer">Started timer</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopped_recording_video">Stopped recording video</string>
+    <string name="subtitle">Social Computer</string>
     <string name="switch_camera">Switch Camera</string>
     <string name="switch_video">Switch Video</string>
     <string name="take_photo">Take Photo</string>
@@ -1423,6 +1427,7 @@
     <string name="use_folder">Use Folder</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
+    <string name="validateTranslateTitle">Is this data relevant to the XX Event?</string>
     <string name="video">Video</string>
     <string name="video_error_server_died">Server died, video halted</string>
     <string name="video_error_unknown">Unknown error, video halted</string>

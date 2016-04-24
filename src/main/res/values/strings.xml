@@ -12,8 +12,8 @@
     <string name="hello_world">Hello World!</string>
     <string name="krumbs_sdk_app">The Web Observatory</string>
     <string name="action_settings">Settings</string>
-    <string name="kcapturebuttonLabel">Contribute</string>
-    <string name="buttonValidate">Validate</string>
+    <string name="kcapturebuttonLabel">Contribute your own data</string>
+    <string name="buttonValidate">Help complete some tasks</string>
     <string name="buttonExplore">Explore Other Contributers</string>
     <string name="appTitle">The Web Observatory</string>
     <string name="subtitle">Social Computer</string>
@@ -22,7 +22,13 @@
 
     <string name="buttonSkip">Skip for Now</string>
     <string name="buttonValidateReleventData">Relevant</string>
-    <string name="buttonValidateNonReleventData">Not So much</string>
+    <string name="buttonValidateNonReleventData">Nope</string>
     <string name="validateTranslateTitle">Is this data relevant to the XX Event?</string>
+
+    <string name="verifyTypeTitle">What type of task would you like to do?</string>
+    <string name="buttonAnnotateTask">Annotate</string>
+    <string name="buttonVerifyTask">Verify</string>
+    <string name="buttonTranslateTask">Translate</string>
+
 
 </resources>

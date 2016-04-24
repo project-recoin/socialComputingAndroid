@@ -76,6 +76,8 @@
         </activity>
         <activity android:name="io.krumbs.sdk.starter.MapActivity" >
         </activity>
+        <activity android:name="io.krumbs.sdk.starter.ValidateActivity" >
+        </activity>
         <activity android:name="io.krumbs.sdk.starter.KrumbsValidateActivity" >
         </activity>
 

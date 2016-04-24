@@ -35,6 +35,16 @@
             android:layout_centerHorizontal="true"
             android:textStyle="bold" />
 
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/subtitle"
+            android:id="@+id/subtitle"
+            android:layout_marginTop="23dp"
+            android:layout_below="@+id/welcomeTitle"
+            android:layout_centerHorizontal="true" />
+
     </RelativeLayout>
 
 

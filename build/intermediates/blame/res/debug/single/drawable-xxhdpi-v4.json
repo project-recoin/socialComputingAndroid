@@ -180,12 +180,12 @@
         "source": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\1.0.8.9-SNAPSHOT\\res\\drawable-xxhdpi-v4\\k_circle_bg.png"
     },
     {
-        "merged": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\dgts__logo_name.png",
-        "source": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\drawable-xxhdpi\\dgts__logo_name.png"
-    },
-    {
         "merged": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\travel_exploring.png",
         "source": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\src\\main\\res\\drawable-xxhdpi\\travel_exploring.png"
+    },
+    {
+        "merged": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\dgts__logo_name.png",
+        "source": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\drawable-xxhdpi\\dgts__logo_name.png"
     },
     {
         "merged": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png",

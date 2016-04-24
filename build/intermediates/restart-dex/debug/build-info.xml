@@ -4,31 +4,60 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="481492308351551" >
+    timestamp="639808314890404" >
 
     <task
         name="javac"
-        duration="1581" />
+        duration="1108" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="80" />
+        duration="102" />
     <task
         name="verifier"
-        duration="13" />
+        duration="11" />
 
     <artifact
         location="C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
         type="DEX" />
 
-    <build timestamp="481191725138369" >
+    <build timestamp="637961520852884" >
         <artifact
             location="C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\build\outputs\apk\KrumbsSDKStarterProject-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="481492308351551" >
+    <build timestamp="639332955179429" >
+        <artifact
+            location="C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="639808314890404" >
         <artifact
             location="C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
             type="DEX" />

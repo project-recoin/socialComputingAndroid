@@ -114,25 +114,25 @@ public class StarterApplication extends Application {
         String webObservatoryResourceAssetDir = "WebObservatory";
         krumbsThemes.add(new KrumbsTheme(webObservatoryThemeName, webObservatoryResourceAssetDir));
 
-        String smartCitiesThemeName = "SmartCities";
-        String smartCitiesResourceAssetDir = "SmartCities";
-        krumbsThemes.add(new KrumbsTheme(smartCitiesThemeName, smartCitiesResourceAssetDir));
-
-        String agriTechThemeName = "AgriTech";
-        String agriTechResourceDir = "AgriTech";
-        krumbsThemes.add(new KrumbsTheme(agriTechThemeName, agriTechResourceDir));
-
-        String housingThemeName = "MyHousing";
-        String housingResourceAssetDir = "Housing";
-        krumbsThemes.add(new KrumbsTheme(housingThemeName, housingResourceAssetDir));
-
-        String cleanCityThemeName = "CleanCity";
-        String cleanCityResourceDir = "CleanCity";
-        krumbsThemes.add(new KrumbsTheme(cleanCityThemeName, cleanCityResourceDir));
-
-        String personalThemeName = "Personal";
-        String personalResourceDir = "IntentResourcesExample";
-        krumbsThemes.add(new KrumbsTheme(personalThemeName, personalResourceDir));
+//        String smartCitiesThemeName = "SmartCities";
+//        String smartCitiesResourceAssetDir = "SmartCities";
+//        krumbsThemes.add(new KrumbsTheme(smartCitiesThemeName, smartCitiesResourceAssetDir));
+//
+//        String agriTechThemeName = "AgriTech";
+//        String agriTechResourceDir = "AgriTech";
+//        krumbsThemes.add(new KrumbsTheme(agriTechThemeName, agriTechResourceDir));
+//
+//        String housingThemeName = "MyHousing";
+//        String housingResourceAssetDir = "Housing";
+//        krumbsThemes.add(new KrumbsTheme(housingThemeName, housingResourceAssetDir));
+//
+//        String cleanCityThemeName = "CleanCity";
+//        String cleanCityResourceDir = "CleanCity";
+//        krumbsThemes.add(new KrumbsTheme(cleanCityThemeName, cleanCityResourceDir));
+//
+//        String personalThemeName = "Personal";
+//        String personalResourceDir = "IntentResourcesExample";
+//        krumbsThemes.add(new KrumbsTheme(personalThemeName, personalResourceDir));
 
         KrumbsSDK.registerIntentCategories(krumbsThemes);
 
@@ -145,15 +145,16 @@ public class StarterApplication extends Application {
         KIntentPanelConfiguration defaults = KrumbsSDK.getIntentPanelViewConfigurationDefaults();
         KIntentPanelConfiguration.IntentPanelCategoryTextStyle categoryTextStyle = defaults.getIntentPanelCategoryTextStyle();
 
-        categoryTextStyle.setTextColor(Color.BLACK);
+//        categoryTextStyle.setTextColor(Color.BLACK);
         KIntentPanelConfiguration.IntentPanelEmojiTextStyle emojiTextStyle = defaults.getIntentPanelEmojiTextStyle();
+
         emojiTextStyle.setTextColor(Color.BLACK);
-        KIntentPanelConfiguration housingThemeStyle = new KIntentPanelConfiguration.KIntentPanelConfigurationBuilder()
-                .intentPanelBarColor(1, (int) (255 * 0.980), (int) (255 * 0.882), (int) (255 * 0.208))
-                .intentPanelTextStyle(categoryTextStyle)
-                .intentEmojiTextStyle(emojiTextStyle)
-                .build();
-        KrumbsSDK.setIntentPanelConfiguration(housingThemeName, housingThemeStyle);
+//        KIntentPanelConfiguration housingThemeStyle = new KIntentPanelConfiguration.KIntentPanelConfigurationBuilder()
+//                .intentPanelBarColor(1, (int) (255 * 0.980), (int) (255 * 0.882), (int) (255 * 0.208))
+//                .intentPanelTextStyle(categoryTextStyle)
+//                .intentEmojiTextStyle(emojiTextStyle)
+//                .build();
+//        KrumbsSDK.setIntentPanelConfiguration(housingThemeName, housingThemeStyle);
 
 
         categoryTextStyle = defaults.getIntentPanelCategoryTextStyle();
@@ -169,38 +170,38 @@ public class StarterApplication extends Application {
 
 
 
-        categoryTextStyle = defaults.getIntentPanelCategoryTextStyle();
-        categoryTextStyle.setTextColor(Color.YELLOW);
-        emojiTextStyle = defaults.getIntentPanelEmojiTextStyle();
-        emojiTextStyle.setTextColor(Color.YELLOW);
-        KIntentPanelConfiguration agriTechThemeStyle = new KIntentPanelConfiguration.KIntentPanelConfigurationBuilder()
-                .intentPanelBarColor("#9e3030")
-                .intentPanelTextStyle(categoryTextStyle)
-                .intentEmojiTextStyle(emojiTextStyle)
-                .build();
-        KrumbsSDK.setIntentPanelConfiguration(agriTechThemeName, agriTechThemeStyle);
-
-        categoryTextStyle = defaults.getIntentPanelCategoryTextStyle();
-        categoryTextStyle.setTextColor(Color.WHITE);
-        emojiTextStyle = defaults.getIntentPanelEmojiTextStyle();
-        emojiTextStyle.setTextColor(Color.WHITE);
-        KIntentPanelConfiguration cleanCityThemeStyle = new KIntentPanelConfiguration.KIntentPanelConfigurationBuilder()
-                .intentPanelBarColor("#9324c6")
-                .intentPanelTextStyle(categoryTextStyle)
-                .intentEmojiTextStyle(emojiTextStyle)
-                .build();
-        KrumbsSDK.setIntentPanelConfiguration(cleanCityThemeName, cleanCityThemeStyle);
-
-        categoryTextStyle = defaults.getIntentPanelCategoryTextStyle();
-        categoryTextStyle.setTextColor(Color.YELLOW);
-        emojiTextStyle = defaults.getIntentPanelEmojiTextStyle();
-        emojiTextStyle.setTextColor(Color.YELLOW);
-        KIntentPanelConfiguration smartCitiesThemeStyle = new KIntentPanelConfiguration.KIntentPanelConfigurationBuilder()
-                .intentPanelBarColor("#029EE1")
-                .intentPanelTextStyle(categoryTextStyle)
-                .intentEmojiTextStyle(emojiTextStyle)
-                .build();
-        KrumbsSDK.setIntentPanelConfiguration(smartCitiesThemeName, smartCitiesThemeStyle);
+//        categoryTextStyle = defaults.getIntentPanelCategoryTextStyle();
+//        categoryTextStyle.setTextColor(Color.YELLOW);
+//        emojiTextStyle = defaults.getIntentPanelEmojiTextStyle();
+//        emojiTextStyle.setTextColor(Color.YELLOW);
+//        KIntentPanelConfiguration agriTechThemeStyle = new KIntentPanelConfiguration.KIntentPanelConfigurationBuilder()
+//                .intentPanelBarColor("#9e3030")
+//                .intentPanelTextStyle(categoryTextStyle)
+//                .intentEmojiTextStyle(emojiTextStyle)
+//                .build();
+//        KrumbsSDK.setIntentPanelConfiguration(agriTechThemeName, agriTechThemeStyle);
+//
+//        categoryTextStyle = defaults.getIntentPanelCategoryTextStyle();
+//        categoryTextStyle.setTextColor(Color.WHITE);
+//        emojiTextStyle = defaults.getIntentPanelEmojiTextStyle();
+//        emojiTextStyle.setTextColor(Color.WHITE);
+//        KIntentPanelConfiguration cleanCityThemeStyle = new KIntentPanelConfiguration.KIntentPanelConfigurationBuilder()
+//                .intentPanelBarColor("#9324c6")
+//                .intentPanelTextStyle(categoryTextStyle)
+//                .intentEmojiTextStyle(emojiTextStyle)
+//                .build();
+//        KrumbsSDK.setIntentPanelConfiguration(cleanCityThemeName, cleanCityThemeStyle);
+//
+//        categoryTextStyle = defaults.getIntentPanelCategoryTextStyle();
+//        categoryTextStyle.setTextColor(Color.YELLOW);
+//        emojiTextStyle = defaults.getIntentPanelEmojiTextStyle();
+//        emojiTextStyle.setTextColor(Color.YELLOW);
+//        KIntentPanelConfiguration smartCitiesThemeStyle = new KIntentPanelConfiguration.KIntentPanelConfigurationBuilder()
+//                .intentPanelBarColor("#029EE1")
+//                .intentPanelTextStyle(categoryTextStyle)
+//                .intentEmojiTextStyle(emojiTextStyle)
+//                .build();
+//        KrumbsSDK.setIntentPanelConfiguration(smartCitiesThemeName, smartCitiesThemeStyle);
     }
 
     private static class KrumbsTheme implements KrumbsIntentTheme {
