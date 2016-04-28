@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\values-ur\\values-ur.xml",
+        "outputFile": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\values-ur\\values-ur.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 192
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -33,7 +33,7 @@
                     "endOffset": 327
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -54,7 +54,7 @@
                     "endOffset": 464
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -74,7 +74,7 @@
                     "endOffset": 527
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -93,7 +93,7 @@
                     "endOffset": 631
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -112,7 +112,7 @@
                     "endOffset": 721
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -131,7 +131,7 @@
                     "endOffset": 849
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -150,7 +150,7 @@
                     "endOffset": 917
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -169,7 +169,7 @@
                     "endOffset": 995
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -188,7 +188,7 @@
                     "endOffset": 1049
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -207,7 +207,7 @@
                     "endOffset": 1124
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -226,7 +226,7 @@
                     "endOffset": 1211
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -245,7 +245,7 @@
                     "endOffset": 1290
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -264,7 +264,7 @@
                     "endOffset": 1401
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -283,7 +283,7 @@
                     "endOffset": 1453
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -302,7 +302,7 @@
                     "endOffset": 1500
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -321,7 +321,7 @@
                     "endOffset": 1568
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -340,7 +340,7 @@
                     "endOffset": 1643
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -359,7 +359,7 @@
                     "endOffset": 1735
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -378,7 +378,7 @@
                     "endOffset": 1819
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -397,7 +397,7 @@
                     "endOffset": 1903
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -416,7 +416,7 @@
                     "endOffset": 1968
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -435,7 +435,7 @@
                     "endOffset": 2029
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -454,7 +454,7 @@
                     "endOffset": 2145
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -473,7 +473,7 @@
                     "endOffset": 2262
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -492,7 +492,7 @@
                     "endOffset": 2341
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -512,7 +512,7 @@
                     "endOffset": 2721
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -532,7 +532,7 @@
                     "endOffset": 2784
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -551,7 +551,7 @@
                     "endOffset": 2894
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -570,7 +570,7 @@
                     "endOffset": 2950
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.5\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.5\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -589,7 +589,7 @@
                     "endOffset": 3015
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -608,7 +608,7 @@
                     "endOffset": 3082
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.5\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.5\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -627,7 +627,7 @@
                     "endOffset": 3140
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.5\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.5\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -646,7 +646,7 @@
                     "endOffset": 3204
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -665,7 +665,7 @@
                     "endOffset": 3269
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -684,7 +684,7 @@
                     "endOffset": 3341
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -703,7 +703,7 @@
                     "endOffset": 3455
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -722,7 +722,7 @@
                     "endOffset": 3534
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.5\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.5\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -741,7 +741,7 @@
                     "endOffset": 3610
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -760,7 +760,7 @@
                     "endOffset": 3669
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -779,7 +779,7 @@
                     "endOffset": 3745
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.0\\res\\values-ur\\values-ur.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.0\\res\\values-ur\\values-ur.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,

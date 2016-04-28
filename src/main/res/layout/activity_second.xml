@@ -21,7 +21,10 @@
                 android:text="@string/kcapturebuttonLabel"
                 android:id="@+id/kcapturebutton"
             android:layout_centerVertical="true"
-            android:layout_centerHorizontal="true" />
+            android:layout_alignRight="@+id/buttonValidate"
+            android:layout_alignEnd="@+id/buttonValidate"
+            android:layout_alignLeft="@+id/buttonValidate"
+            android:layout_alignStart="@+id/buttonValidate" />
 
         <TextView
             android:layout_width="wrap_content"

@@ -1,0 +1,111 @@
+<!--
+  ~ Copyright (c) 2016 Krumbs Inc
+  ~ All rights reserved.
+  ~
+  -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:paddingTop="@dimen/activity_vertical_margin"
+                android:paddingBottom="@dimen/activity_vertical_margin"
+                tools:context=".ValidateSelectorActivity"
+    android:id="@+id/parent_container">
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/verifyTypeTitle"
+                android:id="@+id/verifyTypeTitle"
+                android:padding="@dimen/dgts__title_text_size"
+                android:textAlignment="center" />
+
+            <Button
+                android:layout_width="116dp"
+                android:layout_height="wrap_content"
+                android:text="@string/buttonVoteTask"
+                android:id="@+id/buttonVoteTask"
+                android:layout_marginTop="31dp"
+                android:layout_below="@+id/buttonAnnotateTask"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center_horizontal" />
+
+            <Button
+                android:layout_width="116dp"
+                android:layout_height="wrap_content"
+                android:text="@string/buttonVerifyTask"
+                android:id="@+id/buttonVerifyTask"
+                android:layout_gravity="center_horizontal"
+                android:nestedScrollingEnabled="true"
+                android:layout_above="@+id/buttonShareTask"
+                android:layout_centerHorizontal="true" />
+
+            <Button
+                android:layout_width="116dp"
+                android:layout_height="wrap_content"
+                android:text="@string/buttonAnnotateTask"
+                android:id="@+id/buttonAnnotateTask"
+                android:layout_above="@+id/buttonVerifyTask"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center_horizontal" />
+
+            <Button
+                    android:layout_width="116dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/buttonTranslateTask"
+                    android:id="@+id/buttonTranslateTask"
+                android:layout_above="@+id/buttonAnnotateTask"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center_horizontal" />
+
+            <Button
+                android:layout_width="116dp"
+                android:layout_height="wrap_content"
+                android:text="@string/buttonShareTask"
+                android:id="@+id/buttonShareTask"
+                android:layout_marginBottom="73dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignLeft="@+id/buttonTranslateTask"
+                android:layout_alignStart="@+id/buttonTranslateTask"
+                android:layout_gravity="center_horizontal" />
+
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Small Text"
+        android:id="@+id/contToProjText"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <!--<FrameLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:id="@+id/camera_container"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:layout_marginBottom="92dp"-->
+        <!--android:layout_alignParentLeft="true"-->
+        <!--android:layout_alignParentStart="true">-->
+
+    <!--</FrameLayout>-->
+
+
+</RelativeLayout>

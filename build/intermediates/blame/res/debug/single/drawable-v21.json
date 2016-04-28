@@ -1,14 +1,14 @@
 [
     {
-        "merged": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
+        "merged": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\tw__like_action.xml",
+        "source": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.0\\res\\drawable-v21\\tw__like_action.xml"
     },
     {
-        "merged": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+        "merged": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\tw__like_action.xml",
-        "source": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.0\\res\\drawable-v21\\tw__like_action.xml"
+        "merged": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
     }
 ]

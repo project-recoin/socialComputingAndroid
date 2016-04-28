@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+        "outputFile": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-v13\\values-sw720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 126
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.5\\res\\values-sw720dp\\values-sw720dp.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.5\\res\\values-sw720dp\\values-sw720dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

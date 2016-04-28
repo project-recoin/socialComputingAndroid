@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
-  ~ Copyright (c) 2016 Krumbs Inc
-  ~ All rights reserved.
-  ~
-  -->
+
 <resources>
     <string name="krumbssdk_app_id">Ilb1WfMZ3PlHoL2rZKf1S4d1X7NBJYhhxBWX5I5a</string>
     <string name="krumbssdk_client_key">McNA49Y465RS9snF2trbXh9CzQCwH8uVDKnFshBd</string>
@@ -12,9 +8,9 @@
     <string name="hello_world">Hello World!</string>
     <string name="krumbs_sdk_app">The Web Observatory</string>
     <string name="action_settings">Settings</string>
-    <string name="kcapturebuttonLabel">Contribute your own data</string>
-    <string name="buttonValidate">Help complete some tasks</string>
-    <string name="buttonExplore">Explore Other Contributers</string>
+    <string name="kcapturebuttonLabel">Contribute Data</string>
+    <string name="buttonValidate">Choose tasks to complete</string>
+    <string name="buttonExplore">Explore Other Contributors</string>
     <string name="appTitle">The Web Observatory</string>
     <string name="subtitle">Social Computer</string>
     <string name="titleTwo">All Ready to Go!</string>
@@ -26,9 +22,10 @@
     <string name="validateTranslateTitle">Is this data relevant to the XX Event?</string>
 
     <string name="verifyTypeTitle">What type of task would you like to do?</string>
-    <string name="buttonAnnotateTask">Annotate</string>
-    <string name="buttonVerifyTask">Verify</string>
+    <string name="buttonAnnotateTask">Enrich</string>
+    <string name="buttonVerifyTask">Resolve</string>
     <string name="buttonTranslateTask">Translate</string>
-
+    <string name="buttonShareTask">Share</string>
+    <string name="buttonVoteTask">Vote</string>
 
 </resources>

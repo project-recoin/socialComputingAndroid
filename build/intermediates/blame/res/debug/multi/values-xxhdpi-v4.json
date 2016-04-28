@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+        "outputFile": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 429
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\1.0.8.9-SNAPSHOT\\res\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\1.0.8.9-SNAPSHOT\\res\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -32,7 +32,7 @@
                     "endOffset": 484
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.5\\res\\values-xxhdpi\\values-xxhdpi.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.5\\res\\values-xxhdpi\\values-xxhdpi.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

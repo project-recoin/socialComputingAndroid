@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Users\SOCIAM-Demo\Dropbox\WorkspaceAndroid\TheWebObservatory\KrumbsSDKStarterProject\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\SOCIAM-Demo\Dropbox\WorkspaceAndroid\TheWebObservatory\KrumbsSDKStarterProject\src\debug\jniLibs"/></dataSet></merger>

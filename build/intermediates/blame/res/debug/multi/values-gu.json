@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\values-gu\\values-gu.xml",
+        "outputFile": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\values-gu\\values-gu.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 145
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-gu\\values-gu.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-gu\\values-gu.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 225
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-gu\\values-gu.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-gu\\values-gu.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 309
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-gu\\values-gu.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.0\\res\\values-gu\\values-gu.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 354
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.0\\res\\values-gu\\values-gu.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.0\\res\\values-gu\\values-gu.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 400
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.0\\res\\values-gu\\values-gu.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.0\\res\\values-gu\\values-gu.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 452
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.0\\res\\values-gu\\values-gu.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.0\\res\\values-gu\\values-gu.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 716
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.5\\res\\values-gu\\values-gu.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.5\\res\\values-gu\\values-gu.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

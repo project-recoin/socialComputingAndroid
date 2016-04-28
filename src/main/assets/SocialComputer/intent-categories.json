@@ -1,0 +1,1 @@
+{  "Personal Event": {    "index": 1,    "intents_file": "Event.json"  },  "External Event": {    "index": 2,    "intents_file": "Activity.json"  },  "Anonymous Report": {    "index": 3,    "intents_file": "AnonEvent.json"  }}

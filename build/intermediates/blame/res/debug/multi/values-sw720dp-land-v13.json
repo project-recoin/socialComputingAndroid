@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "outputFile": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 109
                 },
                 "from": {
-                    "file": "C:\\krumbsDev\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.opencamera\\opencamera\\1.0.2-SNAPSHOT\\res\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+                    "file": "C:\\Users\\SOCIAM-Demo\\Dropbox\\WorkspaceAndroid\\TheWebObservatory\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.opencamera\\opencamera\\1.0.2-SNAPSHOT\\res\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

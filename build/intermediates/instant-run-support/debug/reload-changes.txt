@@ -1,7 +1,5 @@
-CHANGED,C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\io\krumbs\sdk\starter\ValidateActivity$2$override.class
-CHANGED,C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\io\krumbs\sdk\starter\ValidateActivity$1$override.class
-CHANGED,C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\io\krumbs\sdk\starter\ValidateActivity$5$override.class
-CHANGED,C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\io\krumbs\sdk\starter\ValidateActivity$override.class
-CHANGED,C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\io\krumbs\sdk\starter\ValidateActivity$4$override.class
-CHANGED,C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\io\krumbs\sdk\starter\ValidateActivity$3$override.class
-CHANGED,C:\krumbsDev\starterprojects\android\KrumbsSDKStarterProject\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\SOCIAM-Demo\Dropbox\WorkspaceAndroid\TheWebObservatory\KrumbsSDKStarterProject\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\io\krumbs\sdk\starter\ValidateAnnotateActivity$1$override.class
+CHANGED,C:\Users\SOCIAM-Demo\Dropbox\WorkspaceAndroid\TheWebObservatory\KrumbsSDKStarterProject\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\io\krumbs\sdk\starter\ValidateAnnotateActivity$3$override.class
+CHANGED,C:\Users\SOCIAM-Demo\Dropbox\WorkspaceAndroid\TheWebObservatory\KrumbsSDKStarterProject\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\io\krumbs\sdk\starter\ValidateAnnotateActivity$2$override.class
+CHANGED,C:\Users\SOCIAM-Demo\Dropbox\WorkspaceAndroid\TheWebObservatory\KrumbsSDKStarterProject\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\SOCIAM-Demo\Dropbox\WorkspaceAndroid\TheWebObservatory\KrumbsSDKStarterProject\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\io\krumbs\sdk\starter\ValidateAnnotateActivity$override.class

@@ -53,6 +53,27 @@
             android:name=".KrumbsValidateActivity" >
         </activity>
 
+        <activity
+            android:name=".ValidateSelectorActivity" >
+        </activity>
+        <activity
+            android:name=".ValidateTranslateActivity" >
+        </activity>
+        <activity
+            android:name=".ValidateAnnotateActivity" >
+        </activity>
+        <activity
+        android:name=".ProjectListActivity" >
+    </activity>
+        <activity
+            android:name=".ValidateShareActivity" >
+        </activity>
+
+        <activity
+            android:name=".ValidatePrioritiseActivity" >
+        </activity>
+
+
         <meta-data
             android:name="io.fabric.ApiKey"
             android:value="b4291c55cc2754f22c3679f9923307e9027d43d5" />

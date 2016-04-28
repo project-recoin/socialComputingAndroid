@@ -14,7 +14,9 @@ import android.util.Log;
 
 import com.twitter.sdk.android.Twitter;
 import com.twitter.sdk.android.core.TwitterAuthConfig;
+
 import io.fabric.sdk.android.Fabric;
+
 import java.io.IOException;
 import java.net.URL;
 import java.util.ArrayList;
@@ -36,24 +38,28 @@ public class StarterApplication extends Application {
 
     public static final String KRUMBS_SDK_APPLICATION_ID = "io.krumbs.sdk.APPLICATION_ID";
     public static final String KRUMBS_SDK_CLIENT_KEY = "io.krumbs.sdk.CLIENT_KEY";
-    public static final String SDK_STARTER_PROJECT_USER_FN = "JohnQ";
+    public static final String SDK_STARTER_PROJECT_USER_FN = "Ramine";
     public static final String SDK_STARTER_PROJECT_USER_SN = "Public";
 
     @Override
     public void onCreate() {
         super.onCreate();
+
+        //CONFIGURE Twitter!
+
         TwitterAuthConfig authConfig = new TwitterAuthConfig(TWITTER_KEY, TWITTER_SECRET);
         Fabric.with(this, new Twitter(authConfig));
 
         String appID = getMetadata(getApplicationContext(), KRUMBS_SDK_APPLICATION_ID);
         String clientKey = getMetadata(getApplicationContext(), KRUMBS_SDK_CLIENT_KEY);
         if (appID != null && clientKey != null) {
-// SDK usage step 1 - initialize the SDK with your application id and client key
+
+            // SDK usage step 1 - initialize the SDK with your application id and client key
             KrumbsSDK.initialize(getApplicationContext(), appID, clientKey);
 
-// Implement the interface KMediaUploadListener.
-// After a Capture completes, the media (photo and audio) is uploaded to the cloud
-// KMediaUploadListener will be used to listen for various state of media upload from the SDK.
+            // Implement the interface KMediaUploadListener.
+            // After a Capture completes, the media (photo and audio) is uploaded to the cloud
+            // KMediaUploadListener will be used to listen for various state of media upload from the SDK.
             KMediaUploadListener kMediaUploadListener = new KMediaUploadListener() {
                 // onMediaUpload listens to various status of media upload to the cloud.
                 @Override
@@ -74,7 +80,7 @@ public class StarterApplication extends Application {
 
             try {
 
-// SDK usage step 2 - register your customized Intent Panel with the SDK
+                // SDK usage step 2 - register your customized Intent Panel with the SDK
 
                 // Register the Intent Panel model
                 // the emoji image assets will be looked up by name when the KCapture camera is started
@@ -84,8 +90,8 @@ public class StarterApplication extends Application {
 //                singlePanelSetup(assetPath);
                 multiPanelSetup();
 
-// SDK usage step 4 (optional) - register users so you can associate their ID (email) with created content with Cloud
-// API
+                // SDK usage step 4 (optional) - register users so you can associate their ID (email) with created content with Cloud
+                // API
                 // Register user information (if your app requires login)
                 // to improve security on the mediaJSON created.
                 String userEmail = DeviceUtils.getPrimaryUserID(getApplicationContext());
@@ -93,8 +99,6 @@ public class StarterApplication extends Application {
                         .email(userEmail)
                         .firstName(SDK_STARTER_PROJECT_USER_FN)
                         .lastName(SDK_STARTER_PROJECT_USER_SN).build());
-
-
             } catch (Exception e) {
                 e.printStackTrace();
             }
@@ -113,31 +117,7 @@ public class StarterApplication extends Application {
         String webObservatoryThemeName = "WebObservatory";
         String webObservatoryResourceAssetDir = "WebObservatory";
         krumbsThemes.add(new KrumbsTheme(webObservatoryThemeName, webObservatoryResourceAssetDir));
-
-//        String smartCitiesThemeName = "SmartCities";
-//        String smartCitiesResourceAssetDir = "SmartCities";
-//        krumbsThemes.add(new KrumbsTheme(smartCitiesThemeName, smartCitiesResourceAssetDir));
-//
-//        String agriTechThemeName = "AgriTech";
-//        String agriTechResourceDir = "AgriTech";
-//        krumbsThemes.add(new KrumbsTheme(agriTechThemeName, agriTechResourceDir));
-//
-//        String housingThemeName = "MyHousing";
-//        String housingResourceAssetDir = "Housing";
-//        krumbsThemes.add(new KrumbsTheme(housingThemeName, housingResourceAssetDir));
-//
-//        String cleanCityThemeName = "CleanCity";
-//        String cleanCityResourceDir = "CleanCity";
-//        krumbsThemes.add(new KrumbsTheme(cleanCityThemeName, cleanCityResourceDir));
-//
-//        String personalThemeName = "Personal";
-//        String personalResourceDir = "IntentResourcesExample";
-//        krumbsThemes.add(new KrumbsTheme(personalThemeName, personalResourceDir));
-
         KrumbsSDK.registerIntentCategories(krumbsThemes);
-
-
-
 
 
         // SDK usage step 3 (optional) - add your Intent Panel view customizations
@@ -169,48 +149,17 @@ public class StarterApplication extends Application {
         KrumbsSDK.setIntentPanelConfiguration(webObservatoryThemeName, webObservatoryThemeStyle);
 
 
-
-//        categoryTextStyle = defaults.getIntentPanelCategoryTextStyle();
-//        categoryTextStyle.setTextColor(Color.YELLOW);
-//        emojiTextStyle = defaults.getIntentPanelEmojiTextStyle();
-//        emojiTextStyle.setTextColor(Color.YELLOW);
-//        KIntentPanelConfiguration agriTechThemeStyle = new KIntentPanelConfiguration.KIntentPanelConfigurationBuilder()
-//                .intentPanelBarColor("#9e3030")
-//                .intentPanelTextStyle(categoryTextStyle)
-//                .intentEmojiTextStyle(emojiTextStyle)
-//                .build();
-//        KrumbsSDK.setIntentPanelConfiguration(agriTechThemeName, agriTechThemeStyle);
-//
-//        categoryTextStyle = defaults.getIntentPanelCategoryTextStyle();
-//        categoryTextStyle.setTextColor(Color.WHITE);
-//        emojiTextStyle = defaults.getIntentPanelEmojiTextStyle();
-//        emojiTextStyle.setTextColor(Color.WHITE);
-//        KIntentPanelConfiguration cleanCityThemeStyle = new KIntentPanelConfiguration.KIntentPanelConfigurationBuilder()
-//                .intentPanelBarColor("#9324c6")
-//                .intentPanelTextStyle(categoryTextStyle)
-//                .intentEmojiTextStyle(emojiTextStyle)
-//                .build();
-//        KrumbsSDK.setIntentPanelConfiguration(cleanCityThemeName, cleanCityThemeStyle);
-//
-//        categoryTextStyle = defaults.getIntentPanelCategoryTextStyle();
-//        categoryTextStyle.setTextColor(Color.YELLOW);
-//        emojiTextStyle = defaults.getIntentPanelEmojiTextStyle();
-//        emojiTextStyle.setTextColor(Color.YELLOW);
-//        KIntentPanelConfiguration smartCitiesThemeStyle = new KIntentPanelConfiguration.KIntentPanelConfigurationBuilder()
-//                .intentPanelBarColor("#029EE1")
-//                .intentPanelTextStyle(categoryTextStyle)
-//                .intentEmojiTextStyle(emojiTextStyle)
-//                .build();
-//        KrumbsSDK.setIntentPanelConfiguration(smartCitiesThemeName, smartCitiesThemeStyle);
     }
 
     private static class KrumbsTheme implements KrumbsIntentTheme {
         private String themeName;
         private String assetDirectoryName;
+
         KrumbsTheme(String themeName, String assetDirName) {
             this.themeName = themeName;
             this.assetDirectoryName = assetDirName;
         }
+
         @Override
         public String themeName() {
             return themeName;
@@ -234,4 +183,6 @@ public class StarterApplication extends Application {
         }
         return null;
     }
+
+
 }

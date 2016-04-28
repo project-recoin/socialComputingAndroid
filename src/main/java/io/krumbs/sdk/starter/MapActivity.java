@@ -33,6 +33,7 @@ import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
+import com.rookery.web_api_translate.GoogleTranslator;
 
 import org.json.JSONObject;
 
@@ -196,11 +197,9 @@ public class MapActivity extends FragmentActivity implements OnMapReadyCallback 
 
 
     Thread subscribeThread;
-    Thread publishThread;
     @Override
     protected void onDestroy() {
         super.onDestroy();
-        publishThread.interrupt();
         subscribeThread.interrupt();
     }
 

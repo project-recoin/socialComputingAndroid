@@ -56,7 +56,7 @@ public class SecondActivity extends AppCompatActivity {
       validateButton.setOnClickListener(new View.OnClickListener() {
           @Override
           public void onClick(View v) {
-              Intent intent = new Intent(getApplicationContext(),ValidateSelectorActivity.class);
+              Intent intent = new Intent(getApplicationContext(),ProjectListActivity.class);
               startActivity(intent);
 
           }
@@ -66,8 +66,6 @@ public class SecondActivity extends AppCompatActivity {
 
 
   }
-
-
 
   @Override
   public boolean onCreateOptionsMenu(Menu menu) {
@@ -89,7 +87,12 @@ public class SecondActivity extends AppCompatActivity {
     return super.onOptionsItemSelected(item);
   }
 
-
+//
+//    @Override
+//    protected void onDestroy() {
+//        super.onDestroy();
+//
+//    }
 
 
 

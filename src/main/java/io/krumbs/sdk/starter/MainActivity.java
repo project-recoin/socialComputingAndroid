@@ -68,22 +68,9 @@ public class MainActivity extends AppCompatActivity {
 
 
         //polymer!
-
       // TODO: Use a more specific parent
       final ViewGroup parentView = (ViewGroup) getWindow().getDecorView().getRootView();
-      // TODO: Base this Tweet ID on some data from elsewhere in your app
-      long tweetId = 631879971628183552L;
-      TweetUtils.loadTweet(tweetId, new Callback<Tweet>() {
-          @Override
-          public void success(Result<Tweet> result) {
-              TweetView tweetView = new TweetView(MainActivity.this, result.data);
-              //parentView.addView(tweetView);
-          }
-          @Override
-          public void failure(TwitterException exception) {
-              Log.d("TwitterKit", "Load Tweet failure", exception);
-          }
-      });
+
 
 
 
@@ -91,36 +78,12 @@ public class MainActivity extends AppCompatActivity {
 
   }
 
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+    }
 
-//  private void startCapture() {
-//    int containerId = R.id.camera_container;
-//// SDK usage step 4 - Start the K-Capture component and add a listener to handle returned images and URLs
-//    KrumbsSDK.startCapture(containerId, this, new KCaptureCompleteListener() {
-//        @Override
-//        public void captureCompleted(CompletionState completionState, boolean audioCaptured, Map<String, Object> map) {
-//            // DEBUG LOG
-//            if (completionState != null) {
-//                Log.d("KRUMBS-CALLBACK", "STATUS" + ": " + completionState.toString());
-//            }
-//            if (completionState == CompletionState.CAPTURE_SUCCESS) {
-//// The local image url for your capture
-//                String imagePath = (String) map.get(KCaptureCompleteListener.CAPTURE_MEDIA_IMAGE_PATH);
-//                if (audioCaptured) {
-//// The local audio url for your capture (if user decided to record audio)
-//                    String audioPath = (String) map.get(KCaptureCompleteListener.CAPTURE_MEDIA_AUDIO_PATH);
-//                }
-//// The mediaJSON url for your capture
-//                String mediaJSONUrl = (String) map.get(KCaptureCompleteListener.CAPTURE_MEDIA_JSON_URL);
-//                Log.i("KRUMBS-CALLBACK", mediaJSONUrl + ", " + imagePath);
-//            } else if (completionState == CompletionState.CAPTURE_CANCELLED ||
-//                    completionState == CompletionState.SDK_NOT_INITIALIZED) {
-//                // code to handle cancellation and not-init states
-//            }
-//        }
-//    });
-//  }
-
-  @Override
+    @Override
   public boolean onCreateOptionsMenu(Menu menu) {
     // Inflate the menu; this adds items to the action bar if it is present.
     getMenuInflater().inflate(R.menu.menu_main, menu);

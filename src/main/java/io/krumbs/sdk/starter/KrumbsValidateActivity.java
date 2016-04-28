@@ -39,20 +39,7 @@ public class KrumbsValidateActivity extends AppCompatActivity {
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_krumbs);
-//    View startCaptureButton = findViewById(R.id.kcapturebutton);
-//    startCaptureButton.setOnClickListener(new View.OnClickListener() {
-//        @Override
-//        public void onClick(View view) {
-////          startCapture();
-//            Intent intent = new Intent(getApplicationContext(),MapActivity.class);
-//            startActivity(intent);
-//
-//        }
-//    });
-//
-
-
-      startCapture();
+    startCapture();
 
   }
 
